@@ -1,8 +1,8 @@
 # React + Vite (Worldwise)
 
 This is a web app where user can keep track of cities they have visited throughout the world. THe app uses React leaflet and other such 3rd party libraries to make it functional.
-
-*To run this app*
+You can visit on - **https://worldwise-webapp.netlify.app/**
+*To run this app in you local machine*
 1. Download the zip
 2. Extract the files
 3. Open it in Visual Studio Code or similar IDE
@@ -13,3 +13,5 @@ This is a web app where user can keep track of cities they have visited througho
 8. It should open the app in "http://localhost:5173/"
 
 **This app uses a fake authentication to login**
+
+
