@@ -1,8 +1,13 @@
-# React + Vite
+# React + Vite (Worldwise)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web app where user can keep track of cities they have visited throughout the world. THe app uses React leaflet and other such 3rd party libraries to make it functional.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*To run this app*
+1. Download the zip
+2. Extract the files
+3. Open it in Visual Studio Code or similar IDE
+4. go to the root folder
+5. Give the command "npm i"
+6. To run the server to work as a fake API run the command "npm run server"
+7. To start the app run the comman "npm run dev"
+8. It should open the app in "http://localhost:5173/"
