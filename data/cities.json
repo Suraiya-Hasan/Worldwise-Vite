@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Dhaka",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://www.worldatlas.com/r/w425/img/flag/bd-flag.jpg",
+          "alt": "flag",
+          "height": "18px",
+          "width": "24px"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-07-27T06:56:47.813Z",
+      "country": "Bangladesh",
+      "notes": "Bhalo na",
+      "position": {
+        "lat": "23.779375592805653",
+        "lng": "90.40416789885653"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Dhaka",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://www.worldatlas.com/r/w425/img/flag/bd-flag.jpg",
+          "alt": "flag",
+          "height": "18px",
+          "width": "24px"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-07-27T08:49:01.744Z",
+      "country": "Bangladesh",
+      "notes": "Agargaon, close to home",
+      "position": {
+        "lat": "23.78094646493779",
+        "lng": "90.3781451076672"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Gazipur",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://www.worldatlas.com/r/w425/img/flag/bd-flag.jpg",
+          "alt": "flag",
+          "height": "18px",
+          "width": "24px"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-05-20T08:54:53.000Z",
+      "country": "Bangladesh",
+      "notes": "IUT",
+      "position": {
+        "lat": "23.94790019241182",
+        "lng": "90.37929599454736"
+      },
+      "id": 98443203
+    }
+  ]
+}
