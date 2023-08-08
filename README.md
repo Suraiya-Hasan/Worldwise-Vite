@@ -11,3 +11,5 @@ This is a web app where user can keep track of cities they have visited througho
 6. To run the server to work as a fake API run the command "npm run server"
 7. To start the app run the comman "npm run dev"
 8. It should open the app in "http://localhost:5173/"
+
+**This app uses a fake authentication to login**
