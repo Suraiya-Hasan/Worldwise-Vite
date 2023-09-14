@@ -4,9 +4,6 @@
 This is a web app where user can keep track of cities they have visited throughout the world. THe app uses React leaflet and other such 3rd party libraries to make it functional.
 
 
-# You can visit on - **https://worldwise-webapp.netlify.app/**
-
-
 # *To run this app in you local machine*
 1. Download the zip
 2. Extract the files
